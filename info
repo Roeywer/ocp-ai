@@ -6,6 +6,8 @@ Secret Access Key: EPk1Kf231RJ3nwvbc0TFn32FAVL5HGPZgMJuGKT4
 endpoint:
 https://minio-api-minio.apps.cluster-lhq5p.lhq5p.sandbox753.opentlc.com
 
+region: us-east-1
+
 Openshift AI Console:
 https://rhods-dashboard-redhat-ods-applications.apps.cluster-lhq5p.lhq5p.sandbox753.opentlc.com
 
